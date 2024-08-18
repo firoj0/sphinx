@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sphinx\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2024-07-28 22:39+0000\n"
+"POT-Creation-Date: 2024-07-29 17:39+0000\n"
 "PO-Revision-Date: 2013-04-02 08:44+0000\n"
 "Last-Translator: Vilibald W. <vilibald.wanca@gmail.com>, 2014-2015\n"
 "Language-Team: Czech (http://app.transifex.com/sphinx-doc/sphinx-1/language/cs/)\n"
@@ -1313,7 +1313,7 @@ msgid ""
 " has existing data)."
 msgstr ""
 
-#: /home/runner/work/sphinx/sphinx/sphinx/util/osutil.py:126
+#: /home/runner/work/sphinx/sphinx/sphinx/util/osutil.py:129
 #, python-format
 msgid ""
 "Aborted attempted copy from %s to %s (the destination path has existing "
